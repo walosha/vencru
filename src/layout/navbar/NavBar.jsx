@@ -1,7 +1,7 @@
-import { Logo } from "../../components/Logo";
+import { Logo } from "../../reuseables/Logo";
 
 import logoImg from "../../assets/Logomark.svg";
-import { NavIcon } from "../../components/Icon";
+import { NavIcon } from "../../reuseables/Icon";
 
 const NavBar = ({ visible, setVisible }) => {
   return (

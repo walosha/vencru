@@ -1,5 +1,5 @@
-import { Logo } from "../../components/Logo";
-import { Input } from "../../components/Input";
+import { Logo } from "../../reuseables/Logo";
+import { Input } from "../../reuseables/Input";
 import { MagnifyingGlassIcon, XMarkIcon } from "@heroicons/react/20/solid";
 
 import {
@@ -12,7 +12,7 @@ import {
   SupportIcon,
   TaskIcon,
   UserIcon,
-} from "../../components/Icon";
+} from "../../reuseables/Icon";
 
 import logoImg from "../../assets/Logomark.svg";
 import imgWrap from "../../assets/ImageWrap.svg";
